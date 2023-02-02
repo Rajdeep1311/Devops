@@ -2,11 +2,6 @@ This is the first feature of our application
 
 This is the bug fix in development branch
 
-After bug fixing, this is the new feature with minor alteration
-
 This is the advancement of previous feature
-<<<<<<< HEAD
 
-Feature 2 is completed and ready for release
-=======
->>>>>>> 9e724f6 (Added feature2.2 in development branch)
+Added few more changes to make it more optimized.
