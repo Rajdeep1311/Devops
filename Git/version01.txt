@@ -2,6 +2,8 @@ This is the first feature of our application
 
 This is the bug fix in development branch
 
-This is gadbad code
+After bug fixing, this is the new feature with minor alteration
 
-This feature will gadbad everything from now.
+This is the advancement of previous feature
+
+Feature 2 is completed and ready for release
